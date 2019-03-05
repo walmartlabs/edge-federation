@@ -6,4 +6,4 @@ This repository is used to discuss architecture and design for a k8s edge federa
 
 ## Disclaimer
 
-All documentation - Copyright (c) 2019-present, Walmart Inc.
+All documentation and resources in this repository - Copyright (c) 2019-present, Walmart Inc.
