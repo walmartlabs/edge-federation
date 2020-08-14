@@ -1,3 +1,11 @@
+***
+# NOTICE:
+ 
+## This repository has been archived and is not supported.
+ 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+***
+
 # Edge Federation
 
 This repository is used to discuss architecture and design for a k8s edge federation tooling.
